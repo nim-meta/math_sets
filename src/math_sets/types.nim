@@ -1,6 +1,6 @@
 
 import std/sets except initSet
-export sets
+export sets except initSet
 
 
 type
