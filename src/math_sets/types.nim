@@ -29,5 +29,5 @@ func initRelation*[T](initialSize = defaultInitialSize): Relation[T] =
   ## 
   ## Set can be used in `var`,
   ## calling this func is not necessary
-  ## inti a Set with given initialSize
+  ## init a Set with given initialSize
   initSet[Pair[T]](initialSize)
