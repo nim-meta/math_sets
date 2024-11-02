@@ -1,0 +1,1 @@
+@nim --hints:off tools/interpreter.nims %1
